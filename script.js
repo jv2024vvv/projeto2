@@ -33,7 +33,30 @@ const perguntas = [
                 texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
                 afirmacao: "afirmação"
             }
+        
+
+
+            export const perguntas = [
+    {
+        enunciado: "Qual filme você deseja assistir?",
+        alternativas: [
+            {
+                filme: "Toy Story",
+                sala: [
+                    "Escolha o seu assento e direcione-se à Sala 5."
+                ],
+                ____: ___,
+            },
+            {
+                filme: _____
+                sala: [
+                    "Escolha o seu assento e direcione-se à Sala 4."
+                ],
+                ____: ___,
+            },
+    // + outras opções de filmes
         ]
+    },
     },
     {
         enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
